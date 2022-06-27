@@ -1,0 +1,11 @@
+The full list of methods on array instances that change the values or number of values in the array is this one:
+
+Array.prototype.push
+Array.prototype.pop
+Array.prototype.shift
+Array.prototype.unshift
+Array.prototype.splice
+Array.prototype.reverse
+Array.prototype.sort
+Array.prototype.fill
+Array.prototype.copyWithin
